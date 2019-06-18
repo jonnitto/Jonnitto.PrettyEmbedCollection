@@ -1,0 +1,53 @@
+{
+    "name": "jonnitto/prettyembedcollection",
+    "type": "neos-plugin",
+    "license": "GPL-3.0-or-later",
+    "description": "Collect all packages from the PrettyEmbed series",
+    "keywords": [
+        "flow",
+        "neos",
+        "video",
+        "vimeo",
+        "youtube",
+        "contentelement"
+    ],
+    "support": {
+        "issues": "https://github.com/jonnitto/Jonnitto.PrettyEmbedCollection/issues",
+        "source": "https://github.com/jonnitto/Jonnitto.PrettyEmbedCollection"
+    },
+    "homepage": "https://github.com/jonnitto/Jonnitto.PrettyEmbedCollection",
+    "authors": [
+        {
+            "name": "Jon Uhlmann",
+            "email": "me@jonnitto.ch",
+            "homepage": "https://twitter.com/jonnitto",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "jonnitto/prettyembedvideo": "*",
+        "jonnitto/prettyembedvimeo": "*",
+        "jonnitto/prettyembedyoutube": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jonnitto\\PrettyEmbedCollection\\": "Classes"
+        }
+    },
+    "archive": {
+        "exclude": [
+            ".gitattributes",
+            ".gitignore",
+            ".github",
+            "CODE_OF_CONDUCT.md",
+            "Gulp.yaml"
+        ]
+    },
+    "extra": {
+        "marketplace-account": "me@jonnitto.ch",
+        "installer-name": "Jonnitto.PrettyEmbedCollection",
+        "neos": {
+            "package-key": "Jonnitto.PrettyEmbedCollection"
+        }
+    }
+}
