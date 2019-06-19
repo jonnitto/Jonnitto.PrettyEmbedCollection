@@ -2,7 +2,7 @@
     "name": "jonnitto/prettyembedcollection",
     "type": "neos-plugin",
     "license": "GPL-3.0-or-later",
-    "description": "Collect all packages from the PrettyEmbed series",
+    "description": "Collection of all packages from the PrettyEmbed series",
     "keywords": [
         "flow",
         "neos",
@@ -25,9 +25,9 @@
         }
     ],
     "require": {
-        "jonnitto/prettyembedvideo": "*",
-        "jonnitto/prettyembedvimeo": "*",
-        "jonnitto/prettyembedyoutube": "*"
+        "jonnitto/prettyembedvideo": "^1.0",
+        "jonnitto/prettyembedvimeo": "^2.0",
+        "jonnitto/prettyembedyoutube": "^6.0"
     },
     "autoload": {
         "psr-4": {
@@ -37,10 +37,8 @@
     "archive": {
         "exclude": [
             ".gitattributes",
-            ".gitignore",
             ".github",
-            "CODE_OF_CONDUCT.md",
-            "Gulp.yaml"
+            "CODE_OF_CONDUCT.md"
         ]
     },
     "extra": {
