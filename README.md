@@ -47,6 +47,4 @@ The `--no-update` command prevent the automatic update of the dependencies. Afte
 | Javascript API      |                    |   ✓    |
 | Filesize (JS & CSS) |      smaller       | bigger |
 
-All packages from the PrettyEmbed series have the benefit of a better frontend  
-performance since the player gets only loaded on request.  
-So, no iframe/video get's loaded until the user wants to watch a video.
+All packages from the PrettyEmbed series have the benefit of a better frontend performance since the player gets only loaded on request. So, no iframe/video get's loaded until the user wants to watch a video.
