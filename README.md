@@ -35,16 +35,18 @@ The `--no-update` command prevent the automatic update of the dependencies. Afte
 
 **What are the differences from the PrettyEmbed series to [Jonnitto.Plyr](https://github.com/jonnitto/Jonnitto.Plyr)?**
 
-|                     | PrettyEmbed series |  Plyr  |
-| ------------------- | :----------------: | :----: |
-| YouTube Video       |         ✓          |   ✓    |
-| YouTube Playlist    |         ✓          |        |
-| Vimeo               |         ✓          |   ✓    |
-| Native Audio        |                    |   ✓    |
-| Native Video        |         ✓          |   ✓    |
-| Preview image       |         ✓          |        |
-| Picture in picture  |                    |   ✓    |
-| Javascript API      |                    |   ✓    |
-| Filesize (JS & CSS) |      smaller       | bigger |
+|                                    | PrettyEmbed series |  Plyr  |
+| ---------------------------------- | :----------------: | :----: |
+| YouTube Video                      |         ✓          |   ✓    |
+| YouTube Playlist                   |         ✓          |        |
+| Vimeo                              |         ✓          |   ✓    |
+| Native Audio                       |                    |   ✓    |
+| Native Video                       |         ✓          |   ✓    |
+| Advanced captions for native video |         ✓          |        |
+| Preview image                      |         ✓          |        |
+| Lightbox included                  |         ✓          |        |
+| Preview image                      |         ✓          |        |
+| Javascript API                     |                    |   ✓    |
+| Filesize (JS & CSS)                |      smaller       | bigger |
 
 All packages from the PrettyEmbed series have the benefit of a better frontend performance since the player gets only loaded on request. So, no iframe/video get's loaded until the user wants to watch a video.
