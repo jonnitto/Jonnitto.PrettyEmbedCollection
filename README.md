@@ -11,7 +11,7 @@
 
 # Jonnitto.PrettyEmbedCollection
 
-The PrettyEmbed series are media player (Video/Vimeo/Youtube) for [Neos CMS](https://www.neos.io)- with nice options like high-res preview images, lightbox feature and advanced customization of embed options.
+The PrettyEmbed series are media player (Video/Vimeo/Youtube) for [Neos CMS](https://www.neos.io) - with nice options like high-res preview images, lightbox feature and advanced customization of embed options.
 
 This package installs following packages:
 
