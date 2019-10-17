@@ -25,7 +25,7 @@
         }
     ],
     "require": {
-        "jonnitto/prettyembedvideo": "^1.0",
+        "jonnitto/prettyembedvideo": "^2.0",
         "jonnitto/prettyembedvimeo": "^2.0",
         "jonnitto/prettyembedyoutube": "^6.0"
     },
