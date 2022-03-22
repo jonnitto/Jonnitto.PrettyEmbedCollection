@@ -16,8 +16,7 @@ The PrettyEmbed series are media player (Video/Vimeo/Youtube) for [Neos CMS](htt
 This package installs following packages:
 
 - [PrettyEmbedVideo](https://github.com/jonnitto/Jonnitto.PrettyEmbedVideo)
-- [PrettyEmbedVimeo](https://github.com/jonnitto/Jonnitto.PrettyEmbedVimeo)
-- [PrettyEmbedYoutube](https://github.com/jonnitto/Jonnitto.PrettyEmbedYoutube)
+- [PrettyEmbedVideoPlatforms](https://github.com/jonnitto/Jonnitto.PrettyEmbedVideoPlatforms)
 
 If you install the PrettyEmbedCollection the video players get grouped into a own group in the node inspector, otherwise they will be in the default group.
 
