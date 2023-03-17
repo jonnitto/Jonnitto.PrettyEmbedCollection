@@ -26,7 +26,7 @@
     ],
     "require": {
         "jonnitto/prettyembedvideo": "^4.0",
-        "jonnitto/prettyembedvideoplatforms": "^2.0"
+        "jonnitto/prettyembedvideoplatforms": "^2.0 || ^3.0"
     },
     "autoload": {
         "psr-4": {
