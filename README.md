@@ -3,7 +3,7 @@
 [![License](https://poser.pugx.org/jonnitto/prettyembedcollection/license)](https://packagist.org/packages/jonnitto/prettyembedcollection)
 [![GitHub forks](https://img.shields.io/github/forks/jonnitto/Jonnitto.PrettyEmbedCollection.svg?style=social&label=Fork)](https://github.com/jonnitto/Jonnitto.PrettyEmbedCollection/fork)
 [![Support development](https://img.shields.io/badge/Donate-PayPal-yellow.svg)](https://www.paypal.me/Jonnitto/20eur)
-[![My wishlist on amazon](https://img.shields.io/badge/Wishlist-Amazon-yellow.svg)](https://www.amazon.de/hz/wishlist/ls/2WPGORAVYF39B?&sort=default)  
+[![My wishlist on amazon](https://img.shields.io/badge/Wishlist-Amazon-yellow.svg)](https://www.amazon.de/hz/wishlist/ls/2WPGORAVYF39B?&sort=default)
 [![GitHub stars](https://img.shields.io/github/stars/jonnitto/Jonnitto.PrettyEmbedCollection.svg?style=social&label=Stars)](https://github.com/jonnitto/Jonnitto.PrettyEmbedCollection/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/jonnitto/Jonnitto.PrettyEmbedCollection.svg?style=social&label=Watch)](https://github.com/jonnitto/Jonnitto.PrettyEmbedCollection/subscription)
 [![GitHub followers](https://img.shields.io/github/followers/jonnitto.svg?style=social&label=Follow)](https://github.com/jonnitto/followers)
@@ -39,13 +39,13 @@ The `--no-update` command prevent the automatic update of the dependencies. Afte
 | YouTube Video                      |         ✓          |   ✓    |
 | YouTube Playlist                   |         ✓          |        |
 | Vimeo                              |         ✓          |   ✓    |
-| Native Audio                       |                    |   ✓    |
+| Native Audio                       |         ✓          |   ✓    |
 | Native Video                       |         ✓          |   ✓    |
 | Advanced captions for native video |         ✓          |        |
 | Preview image                      |         ✓          |        |
 | Lightbox included                  |         ✓          |        |
 | Preview image                      |         ✓          |        |
-| Javascript API                     |                    |   ✓    |
+| Javascript API                     |         ✓          |   ✓    |
 | Filesize (JS & CSS)                |      smaller       | bigger |
 
 All packages from the PrettyEmbed series have the benefit of a better frontend performance since the player gets only loaded on request. So, no iframe/video get's loaded until the user wants to watch a video.
