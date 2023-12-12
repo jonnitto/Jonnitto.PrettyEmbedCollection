@@ -11,6 +11,8 @@
 
 # Jonnitto.PrettyEmbedCollection
 
+**For a detail guide, please visit the [PrettyEmbed Wiki](https://github.com/jonnitto/Jonnitto.PrettyEmbedHelper/wiki)**
+
 The PrettyEmbed series are media player (Video/Vimeo/Youtube) for [Neos CMS](https://www.neos.io) - with nice options like high-res preview images, lightbox feature and advanced customization of embed options.
 
 This package installs following packages:
@@ -22,13 +24,17 @@ If you install the PrettyEmbedCollection the video players get grouped into a ow
 
 ## Installation
 
-Most of the time you have to make small adjustments to a package (e.g. configuration in `Settings.yaml`). Because of that, it is important to add the corresponding package to the composer from your theme package. Mostly this is the site packages located under `Packages/Sites/`. To install it correctly go to your theme package (e.g.`Packages/Sites/Foo.Bar`) and run following command:
+Most of the time, you have to make small adjustments to a package (e.g., configuration in `Settings.yaml`). Because of
+that, it is essential to add the corresponding package to the composer from your theme package. Navigate to this package
+in your CLI and run the following command:
 
 ```bash
 composer require jonnitto/prettyembedcollection --no-update
 ```
 
-The `--no-update` command prevent the automatic update of the dependencies. After the package was added to your theme `composer.json`, go back to the root of the Neos installation and run `composer update`. Et voilà! Your desired package is now installed correctly.
+The `--no-update` command prevent the automatic update of the dependencies. After the package was added to your package
+`composer.json`, go back to the root of the Neos installation and run `composer update`. Et voilà! Your desired package
+is now installed correctly.
 
 ## FAQ
 
